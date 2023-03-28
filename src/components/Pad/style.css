@@ -1,0 +1,15 @@
+.pad-active-false {
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 3px #000000cc;
+  height: 97px;
+  width: 97px;
+}
+
+.pad-rectangle {
+  border-radius: 8px;
+  height: 93px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 93px;
+}

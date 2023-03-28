@@ -1,0 +1,1420 @@
+.frame-frame-wrapper {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-frame {
+  border: 1px none;
+  height: 999px;
+  width: 1342px;
+}
+
+.frame-overlap {
+  background-color: #566a57;
+  border-radius: 40px;
+  box-shadow: inset 4px 4px 1px #ffffff08, 40px 54px 84px #00000073, inset -4px -3px 3px #0000005c;
+  height: 987px;
+  position: relative;
+  top: 7px;
+}
+
+.frame-vector {
+  height: 433px;
+  left: 526px;
+  position: absolute;
+  top: 507px;
+  width: 1px;
+}
+
+.frame-vector-3 {
+  height: 12px;
+  left: 74px;
+  position: absolute;
+  top: 454px;
+  width: 228px;
+}
+
+.frame-vector-4 {
+  height: 12px;
+  left: 372px;
+  position: absolute;
+  top: 454px;
+  width: 228px;
+}
+
+.frame-vector-5 {
+  height: 12px;
+  left: 670px;
+  position: absolute;
+  top: 454px;
+  width: 228px;
+}
+
+.frame-vector-6 {
+  height: 12px;
+  left: 968px;
+  position: absolute;
+  top: 454px;
+  width: 311px;
+}
+
+.frame-overlap-group14 {
+  background-color: #0f1014;
+  border: 18px solid;
+  border-color: #000000;
+  border-radius: 22px;
+  height: 314px;
+  left: 27px;
+  position: absolute;
+  top: 34px;
+  width: 1289px;
+}
+
+.frame-overlap-group16 {
+  height: 213px;
+  left: 43px;
+  position: absolute;
+  top: 73px;
+  width: 1206px;
+}
+
+.frame-preview-sound-numbers {
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.frame-overlap-group12 {
+  height: 213px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 29px;
+}
+
+.frame-text-wrapper {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 13px;
+}
+
+.frame-div {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 13px;
+}
+
+.frame-text-wrapper-2 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 34px;
+  width: 13px;
+}
+
+.frame-text-wrapper-3 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 69px;
+  width: 13px;
+}
+
+.frame-text-wrapper-4 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 87px;
+  width: 13px;
+}
+
+.frame-text-wrapper-5 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 105px;
+  width: 13px;
+}
+
+.frame-text-wrapper-6 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 140px;
+  width: 13px;
+}
+
+.frame-text-wrapper-7 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 158px;
+  width: 20px;
+}
+
+.frame-text-wrapper-8 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 193px;
+  width: 29px;
+}
+
+.frame-text-wrapper-9 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 176px;
+  width: 23px;
+}
+
+.frame-text-wrapper-10 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 123px;
+  width: 13px;
+}
+
+.frame-text-wrapper-11 {
+  -webkit-text-stroke: 1px #3f5044;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 52px;
+  width: 13px;
+}
+
+.frame-preview-sound-display-lines {
+  height: 194px;
+  left: 47px;
+  position: absolute;
+  top: 9px;
+  width: 1159px;
+}
+
+.frame-sound-lines-per-beat {
+  height: 164px;
+  left: 47px;
+  position: absolute;
+  top: 41px;
+  width: 1159px;
+}
+
+.frame-preview-beats {
+  background-image: url(../../../static/img/preview-beat-circles.png);
+  background-size: 100% 100%;
+  height: 35px;
+  left: 91px;
+  position: absolute;
+  top: 14px;
+  width: 1121px;
+}
+
+.frame-navbar {
+  height: 19px;
+  left: 11px;
+  position: relative;
+  top: 7px;
+  width: 1134px;
+}
+
+.frame-text-wrapper-12 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 793px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-13 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-14 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 1010px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-15 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 937px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-16 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 865px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-17 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 219px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-18 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 290px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-19 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-20 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 435px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-21 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 508px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-22 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 579px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-23 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 648px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-24 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 720px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 20px;
+}
+
+.frame-text-wrapper-25 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-26 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-text-wrapper-27 {
+  color: #000000;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 11px;
+}
+
+.frame-overlap-group15 {
+  background-color: #0f1014;
+  border-radius: 5px;
+  height: 328px;
+  left: 658px;
+  position: absolute;
+  top: 501px;
+  width: 341px;
+}
+
+.frame-sound-button {
+  height: 50px;
+  left: 276px;
+  position: absolute;
+  top: 12px;
+  width: 52px;
+}
+
+.frame-overlap-group {
+  border-radius: 10px;
+  height: 50px;
+  position: relative;
+}
+
+.frame-sample-sound-btn {
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.frame-rectangle {
+  background-color: #a1a2a6;
+  border-radius: 23.97px;
+  box-shadow: inset 2px 2px 1px -1px #bbbdc7, inset -1px -1px 1px #2c2929cc;
+  height: 48px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 48px;
+}
+
+.frame-icon-volume {
+  height: 26px;
+  left: 12px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.frame-group {
+  height: 145px;
+  left: 18px;
+  position: absolute;
+  top: 21px;
+  width: 164px;
+}
+
+.frame-group-36 {
+  height: 145px;
+  position: relative;
+  width: 174px;
+}
+
+.frame-text-wrapper-28 {
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame-text-wrapper-29 {
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.frame-text-wrapper-30 {
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+}
+
+.frame-text-wrapper-31 {
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.frame-text-wrapper-32 {
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.frame-step-buttons {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  left: 49px;
+  position: absolute;
+  top: 380px;
+  width: fit-content;
+}
+
+.frame-effect-buttons {
+  height: 328px;
+  left: 550px;
+  position: absolute;
+  top: 499px;
+  width: 96px;
+}
+
+.frame-effect {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 213px;
+  width: 96px;
+}
+
+.frame-overlap-2 {
+  height: 43px;
+  position: relative;
+  width: 94px;
+}
+
+.frame-div-wrapper {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.frame-div-2 {
+  border-radius: 8px;
+  height: 43px;
+  position: relative;
+}
+
+.frame-group-9 {
+  background: linear-gradient(
+    180deg,
+    rgb(119, 119, 119) 0%,
+    rgb(82.87, 82.87, 82.87) 58.01%,
+    rgb(207.19, 207.19, 207.19) 100%
+  );
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 3px #000000cc;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.frame-overlap-group-2 {
+  height: 42px;
+  left: 2px;
+  position: relative;
+  width: 91px;
+}
+
+.frame-rectangle-9 {
+  background-color: #42444c;
+  border-radius: 7px;
+  box-shadow: inset 3px 3px 2px -1px #ffffff, 3px 6px 7px #0000004c;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 91px;
+}
+
+.frame-rectangle-10 {
+  background-color: #a1a2a6;
+  border-radius: 6px;
+  box-shadow: inset 2px 2px 1px -1px #babbbb, inset -1px -1px 1px #2c2929cc;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.frame-group-8 {
+  background: linear-gradient(180deg, rgb(67, 68, 75) 0%, rgb(161, 162, 166) 100%);
+  border-radius: 6px;
+  box-shadow: inset 1px 1px 2px -1px #ffffff, inset -1px -1px 1px #00000040;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  transform: rotate(-90deg);
+  width: 26px;
+}
+
+.frame-rectangle-6 {
+  background-color: #696161;
+  border-radius: 6px 0px 0px 6px;
+  box-shadow: 0px 0px 4px #93939373, inset 0px 0px 1px 1px #505050;
+  height: 8px;
+  width: 13px;
+}
+
+.frame-label {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.frame-e {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  width: 53px;
+}
+
+.frame-effect-3 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 142px;
+  width: 96px;
+}
+
+.frame-rectangle-2 {
+  background-color: #a1a2a6;
+  border-radius: 6px;
+  box-shadow: inset 2px 2px 1px -1px #bbbdc7, inset -1px -1px 1px #2c2929cc;
+  height: 40px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 91px;
+}
+
+.frame-rectangle-wrapper {
+  background: linear-gradient(180deg, rgb(67, 68, 75) 0%, rgb(161, 162, 166) 100%);
+  border-radius: 6px;
+  box-shadow: inset 1px 1px 2px -1px #ffffff, inset -1px -1px 1px #00000040;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  transform: rotate(-90deg);
+  width: 26px;
+}
+
+.frame-rectangle-3 {
+  background-color: #97f56b;
+  border-radius: 6px 0px 0px 6px;
+  box-shadow: 0px 0px 14px 5px #ffffffa6, inset 0px 0px 1px 1px #ffffff;
+  height: 8px;
+  width: 13px;
+}
+
+.frame-e-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 15px;
+  width: 53px;
+}
+
+.frame-effect-2 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 96px;
+}
+
+.frame-e-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  width: 53px;
+}
+
+.frame-effect-1 {
+  height: 43px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.frame-label-2 {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 400;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 15px;
+}
+
+.frame-e-1 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 13px;
+  width: 53px;
+}
+
+.frame-revert {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 285px;
+  width: 96px;
+}
+
+.frame-rev {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  width: 44px;
+}
+
+.frame-record-button {
+  height: 94px;
+  left: 558px;
+  position: absolute;
+  top: 844px;
+  width: 79px;
+}
+
+.frame-overlap-group7 {
+  border-radius: 8px;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 77px;
+}
+
+.frame-dark-big-buttom {
+  background-color: #3e4046;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 3px #000000cc;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.frame-rectangle-3-wrapper {
+  border: 1px solid;
+  border-color: #ffffff66;
+  border-radius: 11px;
+  height: 83px;
+  left: -4px;
+  position: relative;
+  top: -2px;
+  width: 85px;
+}
+
+.frame-rectangle-4 {
+  background-color: #a1a2a6;
+  border-radius: 6px;
+  box-shadow: inset 2px 2px 1px -1px #bbbdc7, inset -1px -1px 1px #2c2929cc;
+  height: 74px;
+  left: 6px;
+  position: relative;
+  top: 3px;
+  width: 72px;
+}
+
+.frame-ellipse {
+  background-color: #000000;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 19px;
+  position: absolute;
+  top: 20px;
+  width: 35px;
+}
+
+.frame-text-wrapper-33 {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame-play-button {
+  height: 95px;
+  left: 918px;
+  position: absolute;
+  top: 843px;
+  width: 77px;
+}
+
+.frame-overlap-3 {
+  height: 95px;
+  position: relative;
+  width: 79px;
+}
+
+.frame-group-2 {
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.frame-overlap-group-wrapper {
+  background-color: #3e4046;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 3px #000000cc;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 77px;
+}
+
+.frame-text-wrapper-34 {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame-icon-play {
+  height: 33px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 33px;
+}
+
+.frame-pause-button {
+  height: 95px;
+  left: 800px;
+  position: absolute;
+  top: 843px;
+  width: 77px;
+}
+
+.frame-text-wrapper-35 {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame-image {
+  height: 40px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 40px;
+}
+
+.frame-stop-button {
+  height: 95px;
+  left: 683px;
+  position: absolute;
+  top: 843px;
+  width: 77px;
+}
+
+.frame-text-wrapper-36 {
+  color: #474747;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame-sound-pads {
+  height: 323px;
+  left: 42px;
+  position: absolute;
+  top: 617px;
+  width: 445px;
+}
+
+.frame-group-58 {
+  box-shadow: 0px 4px 4px #00000040;
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.frame-div-3 {
+  height: 97px;
+  position: relative;
+  width: 97px;
+}
+
+.frame-pad {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.frame-text-wrapper-37 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 26px;
+  width: 24px;
+}
+
+.frame-group-62 {
+  height: 97px;
+  left: 348px;
+  position: absolute;
+  top: 226px;
+  width: 99px;
+}
+
+.frame-overlap-4 {
+  border-radius: 8px;
+  height: 97px;
+  position: relative;
+  width: 97px;
+}
+
+.frame-text-wrapper-38 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+  width: 42px;
+}
+
+.frame-group-61 {
+  height: 97px;
+  left: 232px;
+  position: absolute;
+  top: 226px;
+  width: 99px;
+}
+
+.frame-text-wrapper-39 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+  width: 41px;
+}
+
+.frame-group-60 {
+  height: 97px;
+  left: 116px;
+  position: absolute;
+  top: 226px;
+  width: 99px;
+}
+
+.frame-text-wrapper-40 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+  width: 42px;
+}
+
+.frame-group-59 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 226px;
+  width: 99px;
+}
+
+.frame-text-wrapper-41 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 29px;
+  width: 24px;
+}
+
+.frame-group-54 {
+  height: 97px;
+  left: 348px;
+  position: absolute;
+  top: 113px;
+  width: 99px;
+}
+
+.frame-text-wrapper-42 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 26px;
+  width: 24px;
+}
+
+.frame-group-53 {
+  height: 97px;
+  left: 232px;
+  position: absolute;
+  top: 113px;
+  width: 99px;
+}
+
+.frame-group-52 {
+  height: 97px;
+  left: 116px;
+  position: absolute;
+  top: 113px;
+  width: 99px;
+}
+
+.frame-text-wrapper-43 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 27px;
+  width: 24px;
+}
+
+.frame-group-51 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 113px;
+  width: 99px;
+}
+
+.frame-group-55 {
+  height: 97px;
+  left: 348px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.frame-text-wrapper-44 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 26px;
+  width: 24px;
+}
+
+.frame-group-56 {
+  height: 97px;
+  left: 231px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.frame-text-wrapper-45 {
+  -webkit-text-stroke: 1px #566a57;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 26px;
+  width: 24px;
+}
+
+.frame-group-63 {
+  box-shadow: 0px 4px 4px #00000040;
+  height: 97px;
+  left: 118px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.frame-volume-slider {
+  height: 430px;
+  left: 1080px;
+  position: absolute;
+  top: 499px;
+  width: 82px;
+}
+
+.frame-text-wrapper-46 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 403px;
+  width: 80px;
+}
+
+.frame-tempo-slider {
+  height: 429px;
+  left: 1188px;
+  position: absolute;
+  top: 500px;
+  width: 68px;
+}
+
+.frame-text-wrapper-47 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 402px;
+  width: 66px;
+}
+
+.frame-speaker-circles {
+  height: 87px;
+  left: 44px;
+  position: absolute;
+  top: 501px;
+  width: 441px;
+}
